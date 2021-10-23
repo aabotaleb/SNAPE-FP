@@ -1,16 +1,17 @@
 # SNAPE-FP
-SNAPE-FP: SqueezeNet CNN with Accelerated Pooling Layers Extension based on IEEE-754 Floating Point Implementation through SW/HW Partitioning On ZYNQ SoC.</br>
-This is the coding work of the published paper at IEEE NILES 2021 Conference, you can refer to the paper for more details about the background and the proposed architecture to accelerate the squeezenet convolutional neural network.</br>
+**SNAPE-FP: SqueezeNet CNN with Accelerated Pooling Layers Extension based on IEEE-754 Floating Point Implementation through SW/HW Partitioning On ZYNQ SoC**.</br>
+Here is the coding work of the published paper at *IEEE NILES 2021 Conference*, you can refer to the paper [[1]](#1). for more details about the background and the proposed architecture to accelerate the squeezenet convolutional neural network.</br>
 First section of this readme contains the paper info, then general illustration of the project files along with short description, followed by guide to replicate the experiement using Xilinx Vivado 2019.1 IDE along with the use of PYNQ-Z2 Kit, then finally tabulating the results.
 
 ## Paper Info
-Abdelrhman M. Abotaleb, Mohab H. Ahmed, and Mazen A. Fathi, "SNAP-FP: SqueezeNet CNN with Accelerated
+<a id="1">[1]</a> 
+*Abdelrhman M. Abotaleb, Mohab H. Ahmed, and Mazen A. Fathi*, "SNAP-FP: SqueezeNet CNN with Accelerated
 Pooling Layers based on IEEE-754 Floating Point Implementation through SW/HW Partitioning On ZYNQ SoC",
-2021 IEEE 3rd Novel Intelligent and Leading Emerging Sciences Conference (NILES),Manuscript accepted for
+**2021 IEEE 3rd Novel Intelligent and Leading Emerging Sciences Conference (NILES)**,Manuscript accepted for
 presentation by October 23rd and publication at IEEE Xplore.
 
 ## Licensing
-You can use the current project files to extended this work in any useful ways but you must cite us, the original authours, properly and leave our copyrights on it.
+You are welcomed to use the current project files to extended this work in any useful ways but you must cite us, the original authours, properly as per above paper info citation, and leave our copyrights on it.
 This work is licensed under Berkeley-style open source license.
 
 ## Motivation
